@@ -1,4 +1,4 @@
-# Coding Challenge - Connect Four with Python 3.11+
+# Coding Challenge - Connect Four with Python
 
 ## Instructions:
 - The challenge should take about two hours to complete.
